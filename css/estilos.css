@@ -19,7 +19,7 @@ header{
     font-size: 1.1em;
 }
 
-#container{
+.container{
     background-image: url(../images/phy11.jpg);
     display: block;
     height: 800px;
